@@ -8,5 +8,3 @@ LinkedIn Profile: [Anant's LinkedIn](https://www.linkedin.com/in/anant-patankar/
 My study notes and practiced work: [ml_study_and_practice](https://github.com/patankar-anant123/ml_study_and_practice/tree/main/ml_study)
 
 # This is Underconstruction.
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
